@@ -1,22 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\2024102060028\\Desktop\\POO - FELIPE GOMES\\Aula0406 - POO - CRUD\\AulaCRUD\\",
+  "WorkspaceRootPath": "C:\\Users\\2024102060028\\source\\repos\\AulaCRUD\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{373C27AF-CBD6-4630-9935-C9D2D4244303}|AulaCRUD.csproj|c:\\users\\2024102060028\\desktop\\poo - felipe gomes\\aula0406 - poo - crud\\aulacrud\\dao\\clientesdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{373C27AF-CBD6-4630-9935-C9D2D4244303}|AulaCRUD.csproj|solutionrelative:dao\\clientesdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{373C27AF-CBD6-4630-9935-C9D2D4244303}|AulaCRUD.csproj|c:\\users\\2024102060028\\desktop\\poo - felipe gomes\\aula0406 - poo - crud\\aulacrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{373C27AF-CBD6-4630-9935-C9D2D4244303}|AulaCRUD.csproj|c:\\users\\2024102060028\\source\\repos\\aulacrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{373C27AF-CBD6-4630-9935-C9D2D4244303}|AulaCRUD.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{373C27AF-CBD6-4630-9935-C9D2D4244303}|AulaCRUD.csproj|c:\\users\\2024102060028\\desktop\\poo - felipe gomes\\aula0406 - poo - crud\\aulacrud\\utilitarios\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{373C27AF-CBD6-4630-9935-C9D2D4244303}|AulaCRUD.csproj|solutionrelative:utilitarios\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{373C27AF-CBD6-4630-9935-C9D2D4244303}|AulaCRUD.csproj|c:\\users\\2024102060028\\source\\repos\\aulacrud\\dao\\clientesdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{373C27AF-CBD6-4630-9935-C9D2D4244303}|AulaCRUD.csproj|solutionrelative:dao\\clientesdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{373C27AF-CBD6-4630-9935-C9D2D4244303}|AulaCRUD.csproj|c:\\users\\2024102060028\\desktop\\poo - felipe gomes\\aula0406 - poo - crud\\aulacrud\\mapeamento\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{373C27AF-CBD6-4630-9935-C9D2D4244303}|AulaCRUD.csproj|c:\\users\\2024102060028\\source\\repos\\aulacrud\\mapeamento\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{373C27AF-CBD6-4630-9935-C9D2D4244303}|AulaCRUD.csproj|solutionrelative:mapeamento\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{373C27AF-CBD6-4630-9935-C9D2D4244303}|AulaCRUD.csproj|c:\\users\\2024102060028\\source\\repos\\aulacrud\\utilitarios\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{373C27AF-CBD6-4630-9935-C9D2D4244303}|AulaCRUD.csproj|solutionrelative:utilitarios\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,56 +26,55 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ClientesDAO.cs",
-              "DocumentMoniker": "C:\\Users\\2024102060028\\Desktop\\POO - FELIPE GOMES\\Aula0406 - POO - CRUD\\AulaCRUD\\DAO\\ClientesDAO.cs",
+              "DocumentMoniker": "C:\\Users\\2024102060028\\source\\repos\\AulaCRUD\\DAO\\ClientesDAO.cs",
               "RelativeDocumentMoniker": "DAO\\ClientesDAO.cs",
-              "ToolTip": "C:\\Users\\2024102060028\\Desktop\\POO - FELIPE GOMES\\Aula0406 - POO - CRUD\\AulaCRUD\\DAO\\ClientesDAO.cs",
+              "ToolTip": "C:\\Users\\2024102060028\\source\\repos\\AulaCRUD\\DAO\\ClientesDAO.cs",
               "RelativeToolTip": "DAO\\ClientesDAO.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAUwDIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAADwv0gAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-11T23:37:05.392Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Clientes.cs",
-              "DocumentMoniker": "C:\\Users\\2024102060028\\Desktop\\POO - FELIPE GOMES\\Aula0406 - POO - CRUD\\AulaCRUD\\mapeamento\\Clientes.cs",
+              "DocumentMoniker": "C:\\Users\\2024102060028\\source\\repos\\AulaCRUD\\mapeamento\\Clientes.cs",
               "RelativeDocumentMoniker": "mapeamento\\Clientes.cs",
-              "ToolTip": "C:\\Users\\2024102060028\\Desktop\\POO - FELIPE GOMES\\Aula0406 - POO - CRUD\\AulaCRUD\\mapeamento\\Clientes.cs",
+              "ToolTip": "C:\\Users\\2024102060028\\source\\repos\\AulaCRUD\\mapeamento\\Clientes.cs",
               "RelativeToolTip": "mapeamento\\Clientes.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-05T01:49:08.067Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Conexao.cs",
-              "DocumentMoniker": "C:\\Users\\2024102060028\\Desktop\\POO - FELIPE GOMES\\Aula0406 - POO - CRUD\\AulaCRUD\\utilitarios\\Conexao.cs",
+              "DocumentMoniker": "C:\\Users\\2024102060028\\source\\repos\\AulaCRUD\\utilitarios\\Conexao.cs",
               "RelativeDocumentMoniker": "utilitarios\\Conexao.cs",
-              "ToolTip": "C:\\Users\\2024102060028\\Desktop\\POO - FELIPE GOMES\\Aula0406 - POO - CRUD\\AulaCRUD\\utilitarios\\Conexao.cs",
+              "ToolTip": "C:\\Users\\2024102060028\\source\\repos\\AulaCRUD\\utilitarios\\Conexao.cs",
               "RelativeToolTip": "utilitarios\\Conexao.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T01:30:22.31Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T01:30:22.31Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\2024102060028\\Desktop\\POO - FELIPE GOMES\\Aula0406 - POO - CRUD\\AulaCRUD\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\2024102060028\\source\\repos\\AulaCRUD\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\2024102060028\\Desktop\\POO - FELIPE GOMES\\Aula0406 - POO - CRUD\\AulaCRUD\\Program.cs",
+              "ToolTip": "C:\\Users\\2024102060028\\source\\repos\\AulaCRUD\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-05T01:04:40.622Z",
               "EditorCaption": ""

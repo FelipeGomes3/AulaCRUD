@@ -1615,11 +1615,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\2024102060028\\Desktop\\POO - FELIPE GOMES\\Aula0406 - POO - CRUD\\AulaCRUD\\AulaCRUD.csproj",
+      "projectUniqueName": "C:\\Users\\2024102060028\\Source\\Repos\\AulaCRUD\\AulaCRUD.csproj",
       "projectName": "AulaCRUD",
-      "projectPath": "C:\\Users\\2024102060028\\Desktop\\POO - FELIPE GOMES\\Aula0406 - POO - CRUD\\AulaCRUD\\AulaCRUD.csproj",
+      "projectPath": "C:\\Users\\2024102060028\\Source\\Repos\\AulaCRUD\\AulaCRUD.csproj",
       "packagesPath": "C:\\Users\\2024102060028\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\2024102060028\\Desktop\\POO - FELIPE GOMES\\Aula0406 - POO - CRUD\\AulaCRUD\\obj\\",
+      "outputPath": "C:\\Users\\2024102060028\\Source\\Repos\\AulaCRUD\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1653,7 +1653,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.300"
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net8.0": {
@@ -1680,7 +1680,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.204/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
