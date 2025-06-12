@@ -19,7 +19,7 @@ namespace AulaCRUD.utilitarios
                 string strconexao = "server=localhost;uid=root;pwd=root;port=3360; database=ecomerce";
                 conexao = new MySqlConnection(strconexao);
                 conexao.Open();
-                //Console.WriteLine("Sucesso!");
+                Console.WriteLine("Sucesso!");
                 return conexao;
             }
             catch (Exception ex)

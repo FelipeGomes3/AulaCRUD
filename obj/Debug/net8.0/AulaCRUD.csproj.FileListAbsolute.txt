@@ -38,3 +38,4 @@ C:\Users\2024102060028\Desktop\POO - FELIPE GOMES\Aula0406 - POO - CRUD\AulaCRUD
 C:\Users\2024102060028\Desktop\POO - FELIPE GOMES\Aula0406 - POO - CRUD\AulaCRUD\obj\Debug\net8.0\AulaCRUD.pdb
 C:\Users\2024102060028\Desktop\POO - FELIPE GOMES\Aula0406 - POO - CRUD\AulaCRUD\obj\Debug\net8.0\AulaCRUD.genruntimeconfig.cache
 C:\Users\2024102060028\Desktop\POO - FELIPE GOMES\Aula0406 - POO - CRUD\AulaCRUD\obj\Debug\net8.0\ref\AulaCRUD.dll
+C:\Users\2024102060028\Desktop\POO - FELIPE GOMES\Aula0406 - POO - CRUD\AulaCRUD\obj\Debug\net8.0\AulaCRUD.sourcelink.json
