@@ -1,6 +1,7 @@
 ﻿using AulaCRUD.mapeamento;
 using AulaCRUD.utilitarios;
 using MySql.Data.MySqlClient;
+using AulaCRUD.Interface;
 using MySqlX.XDevAPI;
 using System;
 using System.Collections.Generic;
@@ -10,7 +11,7 @@ using System.Threading.Tasks;
 
 namespace AulaCRUD.DAO
 {
-    internal class ClientesDAO
+    internal class ClientesDAO:IDAO<Clientes>
     {
         public void Cadastrar(Clientes clientes)
         {

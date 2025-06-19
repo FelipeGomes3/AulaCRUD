@@ -33,3 +33,4 @@ catch (Exception ex)
     throw new Exception(ex.Message);
 }
 
+// INTERFACE, CLASSES ABSTRATAS E PROPRIEDADES
